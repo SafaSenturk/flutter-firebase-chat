@@ -154,7 +154,7 @@ Kendi uygulaman için giriş, veritabanı, bildirim ve güvenlik kurallarıyla t
 
 Bu uygulamadaki şu parçaları başka projelerde de kullanılabilsin diye **[Plugins](https://github.com/SafaSenturk/Plugins)** reposuna ekledim. Oradan erişip kendi projene kopyalayabilirsin:
 
-- **[firestore-chat-kit](https://github.com/SafaSenturk/Plugins/tree/main/firestore-chat-kit)**: sohbet veri katmanı, güvenlik kuralları, kural testleri ve bildirim fonksiyonu.
+- **[firestore-chat-kit](https://github.com/SafaSenturk/Plugins/tree/main/mobile/firestore-chat-kit)**: sohbet veri katmanı, güvenlik kuralları, kural testleri ve bildirim fonksiyonu.
 
 ---
 
@@ -241,7 +241,7 @@ Need a full Firebase backend for your app, with sign-in, database, notifications
 
 These parts of the app are available in the **[Plugins](https://github.com/SafaSenturk/Plugins)** repo, ready to copy into your own project:
 
-- **[firestore-chat-kit](https://github.com/SafaSenturk/Plugins/tree/main/firestore-chat-kit)**: the chat data layer, security rules, rule tests and the push function.
+- **[firestore-chat-kit](https://github.com/SafaSenturk/Plugins/tree/main/mobile/firestore-chat-kit)**: the chat data layer, security rules, rule tests and the push function.
 
 ---
 
